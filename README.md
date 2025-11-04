@@ -9,11 +9,11 @@ My focus will be on:
 ## What you can expect
 Honestly, **not much**... This is only a test page.
 
-  ### Wups, sorry!
-  Well that's ok
+### Wups, sorry!
+Well that's ok
 
-  ### But I really meant it.
-  I know.
+### But I really meant it.
+I know.
 
 # What else will be displayed?
 **That's it** my man... Ah nah, maybe
