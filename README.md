@@ -1,4 +1,4 @@
-Welcome to my website!
+# Welcome to my website!
 
 ## What I will present here
 My focus will be on:
@@ -6,8 +6,8 @@ My focus will be on:
 - understanding the basics of git
 - finding ways to progress
 
-  ## What you can expect
-  Honestly, **not much**... This is only a test page.
+## What you can expect
+Honestly, **not much**... This is only a test page.
 
   ### Wups, sorry!
   Well that's ok
